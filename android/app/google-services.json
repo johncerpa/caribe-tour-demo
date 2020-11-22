@@ -1,0 +1,41 @@
+{
+    "project_info": {
+        "project_number": "906227475355",
+        "firebase_url": "https://caribe-tour.firebaseio.com",
+        "project_id": "caribe-tour",
+        "storage_bucket": "caribe-tour.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:906227475355:android:b8d389d77eb7b06eb8773e",
+            "android_client_info": {
+                "package_name": "com.example.caribe_tour"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "906227475355-vao832s57bkeati9g2hbquu4aih1c9sa.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "com.example.caribe_tour",
+                    "certificate_hash": "e0eedb288e8d18d9539897d7f894c697905bf7fa"
+                }
+            },
+            {
+                "client_id": "906227475355-83146tmfhda010spa84p304tbkseukua.apps.googleusercontent.com",
+                "client_type": 3
+            }
+        ],
+        "api_key": [{
+            "current_key": ""
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "906227475355-83146tmfhda010spa84p304tbkseukua.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
