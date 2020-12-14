@@ -10,7 +10,7 @@ Esta es una aplicación móvil para los turistas de la región caribe colombiana
 Corre los siguientes comandos: cd caribe_tour & flutter run
 
 ## Tecnologías usadas:
-- Autenticación de usuarios: Firebase Auth
+- Autenticación de usuarios
 - Base de datos: Firestore
 - Map: Google Maps API
 - Servicio de rutas: Google Directions Service
