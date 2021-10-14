@@ -2,8 +2,8 @@
 
 Esta es una aplicación móvil para los turistas de la región caribe colombiana. Te permite seleccionar tus lugares favoritos y armar una ruta óptima entre estos lugares, puedes obtener rutas recomendadas con la ayuda de un chatbot, reseñar lugares y compartir tu experiencia en las redes sociales. Hecha con Flutter.
 
-![alt text](https://github.com/johncerpa/caribe-tour-demo/blob/master/mapa.png?raw=true)
-![alt text](https://github.com/johncerpa/caribe-tour-demo/blob/master/iphone_cards.png?raw=true)
+![alt text](https://github.com/johncerpa/caribe-tour-demo/blob/main/mapa.png?raw=true)
+![alt text](https://github.com/johncerpa/caribe-tour-demo/blob/main/iphone_cards.png?raw=true)
 
 ## Para comenzar
 
